@@ -41,9 +41,3 @@ These programs are written in JavaScript and can be run in a browser console or 
    ```
    Replace `filename.js` with the script you want to run.
 
-## Contributions
-Feel free to contribute by improving the code or adding new features! Open a pull request with your changes.
-
-## License
-This project is open-source and available for learning and practice.
-
